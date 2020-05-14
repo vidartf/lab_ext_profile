@@ -1,0 +1,8 @@
+
+_pkgDataCache.json
+node_modules
+profile/*.json
+_pkgTimesCache.json
+
+.vscode
+.ipynb_checkpoints

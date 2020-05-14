@@ -1,0 +1,19 @@
+{
+  "name": "lab_ext_profile",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "profile.js",
+  "scripts": {
+    "start": "node ./profile.js",
+    "profile": "node ./profile.js",
+    "backfill": "node ./backfill.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "semver": "^7.3.2"
+  }
+}
