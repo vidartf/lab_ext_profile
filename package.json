@@ -14,6 +14,6 @@
   "license": "BSD-3-Clause",
   "dependencies": {
     "node-fetch": "^2.6.0",
-    "semver": "^7.3.2"
+    "semver": "^7.5.2"
   }
 }
